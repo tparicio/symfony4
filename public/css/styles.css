@@ -1,0 +1,10 @@
+form ul.parsley-errors-list {
+    width: 100%;
+    color: darkred;
+}
+
+form ul li {
+    list-style-type: none;
+    text-align: right;
+    padding: 5px 0;
+}

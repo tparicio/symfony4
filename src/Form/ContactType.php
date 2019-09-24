@@ -30,7 +30,8 @@ class ContactType extends AbstractType
                 [
                     'attr' => [
                         'placeholder' =>  'contact.form.name.placeholder',
-                        'class' => 'form-control'
+                        'class' => 'form-control',
+                        'data-parsley-length' => '[4, 255]'
                     ]
                 ]
             )
@@ -40,7 +41,8 @@ class ContactType extends AbstractType
                 [
                     'attr' => [
                         'placeholder' =>  'contact.form.email.placeholder',
-                        'class' => 'form-control'
+                        'class' => 'form-control',
+                        'data-parsley-type' => 'email'
                     ]
                 ]
             )
@@ -72,7 +74,8 @@ class ContactType extends AbstractType
                     'attr' => [
                         'max' => 100,
                         'default' => 50,
-                        'class' => 'form-control-range'
+                        'class' => 'form-control-range',
+                        'data-parsley-range' => '[0, 100]',
                     ]
                 ]
             )
