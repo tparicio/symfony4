@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="contact.form.title">
+                <source>contact.form.title</source>
+                <target>Contact Form</target>
+            </trans-unit>
+            <trans-unit id="contact.form.info">
+                <source>contact.form.info</source>
+                <target>We will response you as soon as possible</target>
+            </trans-unit>
+            <trans-unit id="contact.form.name.placeholder">
+                <source>contact.form.name.placeholder</source>
+                <target>Full name</target>
+            </trans-unit>
+            <trans-unit id="contact.form.email.placeholder">
+                <source>contact.form.email.placeholder</source>
+                <target>Email</target>
+            </trans-unit>
+            <trans-unit id="contact.form.subject.placeholder">
+                <source>contact.form.subject.placeholder</source>
+                <target>Subject</target>
+            </trans-unit>
+            <trans-unit id="contact.form.message.placeholder">
+                <source>contact.form.message.placeholder</source>
+                <target>Write your message here</target>
+            </trans-unit>
+            <trans-unit id="contact.form.priority">
+                <source>contact.form.priority</source>
+                <target>Priority (0-100):</target>
+            </trans-unit>
+            <trans-unit id="contact.back">
+                <source>contact.back</source>
+                <target>Back to List</target>
+            </trans-unit>
+
+            <trans-unit id="contact.index">
+                <source>contact.index</source>
+                <target>Contact Form List</target>
+            </trans-unit>
+            <trans-unit id="contact.id">
+                <source>contact.id</source>
+                <target>ID</target>
+            </trans-unit>
+            <trans-unit id="contact.name">
+                <source>contact.name</source>
+                <target>Name</target>
+            </trans-unit>
+            <trans-unit id="contact.email">
+                <source>contact.email</source>
+                <target>Email</target>
+            </trans-unit>
+            <trans-unit id="contact.subject">
+                <source>contact.subject</source>
+                <target>Subject</target>
+            </trans-unit>
+            <trans-unit id="contact.message">
+                <source>contact.message</source>
+                <target>Mensaje</target>
+            </trans-unit>
+            <trans-unit id="contact.priority">
+                <source>contact.priority</source>
+                <target>Priority</target>
+            </trans-unit>
+            <trans-unit id="contact.new">
+                <source>contact.new</source>
+                <target>New Contact</target>
+            </trans-unit>
+            <trans-unit id="action.actions">
+                <source>action.actions</source>
+                <target>Actions</target>
+            </trans-unit>
+            <trans-unit id="action.search">
+                <source>action.search</source>
+                <target>Search</target>
+            </trans-unit>
+            <trans-unit id="action.save">
+                <source>action.save</source>
+                <target>Save</target>
+            </trans-unit>
+            <trans-unit id="action.edit">
+                <source>action.edit</source>
+                <target>Edit</target>
+            </trans-unit>
+            <trans-unit id="action.view">
+                <source>action.view</source>
+                <target>View</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

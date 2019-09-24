@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="es" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="contact.form.title">
+                <source>contact.form.title</source>
+                <target>Formulario de contacto</target>
+            </trans-unit>
+            <trans-unit id="contact.form.info">
+                <source>contact.form.info</source>
+                <target>Te responderemos tan pronto como sea posible</target>
+            </trans-unit>
+            <trans-unit id="contact.form.name.placeholder">
+                <source>contact.form.name.placeholder</source>
+                <target>Nombre completo</target>
+            </trans-unit>
+            <trans-unit id="contact.form.email.placeholder">
+                <source>contact.form.email.placeholder</source>
+                <target>Email</target>
+            </trans-unit>
+            <trans-unit id="contact.form.subject.placeholder">
+                <source>contact.form.subject.placeholder</source>
+                <target>Asunto</target>
+            </trans-unit>
+            <trans-unit id="contact.form.message.placeholder">
+                <source>contact.form.message.placeholder</source>
+                <target>Escribe tu mensaje aquí</target>
+            </trans-unit>
+            <trans-unit id="contact.form.priority">
+                <source>contact.form.priority</source>
+                <target>Prioridad (0-100):</target>
+            </trans-unit>
+            <trans-unit id="contact.back">
+                <source>contact.back</source>
+                <target>Volver al listado</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
