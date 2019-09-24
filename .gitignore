@@ -6,5 +6,5 @@
 /phpunit.xml
 /public/build
 /public/bundles
-/var/
-/vendor/
+/var/*
+/vendor/*
