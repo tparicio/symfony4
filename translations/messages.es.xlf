@@ -34,6 +34,58 @@
                 <source>contact.back</source>
                 <target>Volver al listado</target>
             </trans-unit>
+            <trans-unit id="contact.index">
+                <source>contact.index</source>
+                <target>Listado de Formularios</target>
+            </trans-unit>
+            <trans-unit id="contact.id">
+                <source>contact.id</source>
+                <target>ID</target>
+            </trans-unit>
+            <trans-unit id="contact.name">
+                <source>contact.name</source>
+                <target>Nombre</target>
+            </trans-unit>
+            <trans-unit id="contact.email">
+                <source>contact.email</source>
+                <target>Email</target>
+            </trans-unit>
+            <trans-unit id="contact.subject">
+                <source>contact.subject</source>
+                <target>Asunto</target>
+            </trans-unit>
+            <trans-unit id="contact.message">
+                <source>contact.message</source>
+                <target>Mensaje</target>
+            </trans-unit>
+            <trans-unit id="contact.priority">
+                <source>contact.priority</source>
+                <target>Prioridad</target>
+            </trans-unit>
+            <trans-unit id="contact.new">
+                <source>contact.new</source>
+                <target>Nuevo contacto</target>
+            </trans-unit>
+            <trans-unit id="action.actions">
+                <source>action.actions</source>
+                <target>Acciones</target>
+            </trans-unit>
+            <trans-unit id="action.search">
+                <source>action.search</source>
+                <target>Buscar</target>
+            </trans-unit>
+            <trans-unit id="action.save">
+                <source>action.save</source>
+                <target>Guardar</target>
+            </trans-unit>
+            <trans-unit id="action.edit">
+                <source>action.edit</source>
+                <target>Editar</target>
+            </trans-unit>
+            <trans-unit id="action.view">
+                <source>action.view</source>
+                <target>Ver</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

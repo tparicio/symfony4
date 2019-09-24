@@ -34,7 +34,6 @@
                 <source>contact.back</source>
                 <target>Back to List</target>
             </trans-unit>
-
             <trans-unit id="contact.index">
                 <source>contact.index</source>
                 <target>Contact Form List</target>
